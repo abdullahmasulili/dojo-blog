@@ -1,0 +1,26 @@
+.blog-preview {
+    padding: 10px 16px;
+    margin: 20px 0;
+    /* border-bottom: 1px solid #fafafa; */
+    transition: ease-in-out 0.2s;
+}
+
+.blog-preview:hover{
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.blog-preview h2 {
+    font-size: 20px;
+    margin-bottom: 8px;
+    color: #f1356d;
+}
+
+.blog-preview a {
+    text-decoration: none;
+}
+
+.not-found h2 {
+    font-size: 20px;
+    margin-bottom: 8px;
+    color: #f1356d;
+}
